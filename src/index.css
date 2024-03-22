@@ -11,3 +11,10 @@
 *{
   font-family:Arial, Helvetica, sans-serif;
 }
+main{
+  min-height: 87vh;
+}
+footer{
+  background-color: rgb(172, 226, 224);
+  padding:10px;
+}
